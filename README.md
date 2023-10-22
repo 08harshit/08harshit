@@ -14,7 +14,7 @@
 </p>
 
 <div>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/harshit-sen-harsh2808/" target="_blank">
+  <a href="https://www.linkedin.com/in/harshit-sen-harsh2808/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/08harshit" target="_blank">
