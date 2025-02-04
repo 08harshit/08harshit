@@ -59,4 +59,8 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=08harshit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p> 
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=08harshit&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
