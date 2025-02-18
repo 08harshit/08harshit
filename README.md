@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=08harshit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p> -->
 <div align="center">
   
   🔭 I'm currently working on **Full Stack Web Applications**
