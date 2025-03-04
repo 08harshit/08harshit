@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  🔭 I'm currently working on **Full Stack Web Applications**
+  🔝 I'm currently working on **Full Stack Web Applications**
   
   🌱 I'm specializing in **Angular, Node.js, and NestJS**
   
@@ -36,6 +36,7 @@
 <h4 align="center">Frontend Development</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
